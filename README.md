@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 ### Hi there 🤝
-I'm Fatma from Kenya, a front-end developer , I really enjoy learning languages such as HTML , CSS and JavaScript. I enjoy wireframing , UI and learning frameworks such as React.<br><br><br>I'm  currently a full-time  Full-stack developer student at Microverse .<br>
+I'm Fatma from Kenya, Junior Full Stack Developer with a passion for creating sleek and efficient web applications .<br>
 
 
 ## 🌐 Socials:
