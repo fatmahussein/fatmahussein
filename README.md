@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 ### Hi there 🤝
-I'm Fatma from Kenya, Junior Full Stack Developer with a passion for creating sleek and efficient web applications .<br>
+I'm Fatma from Kenya, Full Stack Developer with a passion for creating sleek and efficient web applications .<br>
 
 
 ## 🌐 Socials:
